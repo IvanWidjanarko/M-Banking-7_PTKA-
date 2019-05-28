@@ -1,0 +1,2 @@
+# M-Banking-7_PTKA-
+Untuk memenuhi proyek akhir P. Tekkom pada semester ini, maka kelompok kami membuat sebuah program M-Banking. Latar belakang pemilihan program ini adalah karena M-Banking merupakan aplikasi yang banyak digunakan oleh manusia. Aplikasi ini memudahkan manusia  untuk melakukan berbagai jenis transkasi, seperti transfer, pembayaran tagihan, top up, dll. Oleh karena itu, kami berusaha untuk menerapkan materi pembelajaran bahasa C yang sudah diajarkan di kelas untuk membuat program ini.
